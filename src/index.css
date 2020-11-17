@@ -28,7 +28,7 @@ code {
 .animatedBoxTransition {
   background-color: #ff6347;
   margin: 0.5px auto;
-  width: 80%;
+  width: 500px;
   height: 1px;
   display: block;
   transition: width 10s ease-in-out;
